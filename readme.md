@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
 # laravel-api
-- First clone via `git bash` or download it. It is a RESTful api, you will find `angular2` app [here](https://github.com/eliyas5044/angular-laravel) .
+- First clone via `git bash` or download it. It is a RESTful api, you will find `angular2` app [here](https://github.com/bad4iz/angular-laravel) .
 - Run this command in your terminal
 ```
 composer install
@@ -50,6 +50,6 @@ it will navigate at `http://localhost:8000/`
 if you go this address in your browser, you will see nothing there !
 because it's only api. Don't **forget** to start `mysql` server, if you use `mysql` or database will not connect.
 
-- Clone or download [angular2](https://github.com/eliyas5044/angular-laravel) and run this app. You will see data will load from this server to your `angluar` app.
+- Clone or download [angular2](https://github.com/bad4iz/angular-laravel) and run this app. You will see data will load from this server to your `angluar` app.
 
 Enjoy !
